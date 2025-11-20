@@ -1,0 +1,5 @@
+{
+  "name": "RetroGen Adventure",
+  "description": "An AI-powered infinite point-and-click adventure game generator in the style of 80s LucasArts classics.",
+  "requestFramePermissions": []
+}
